@@ -5,7 +5,7 @@ Backend project develop for a car rental managment system using Spring boot -Jav
 Java , Spring boot , MariaDB  
 
 ### Steps to run
-1. `Clone project from git reposiory`
+1. `Clone project from git reposiory`<br/>
    https://github.com/sahannimesh99/Car_Rental <br/>
    <br/>
 2. `Inject all dependencies required`<br/>
@@ -17,6 +17,7 @@ Java , Spring boot , MariaDB
 <br/>
 
 ### Postman endpoint collection
+https://www.getpostman.com/collections/2d6f3653a086ce116017
 
 <br/>
 
